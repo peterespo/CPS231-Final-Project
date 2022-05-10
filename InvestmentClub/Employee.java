@@ -1,3 +1,15 @@
+/*
+Peter Esposito
+CPS231 Spring
+Final Project
+
+Description:
+
+Class "Employee" which inherits the
+"Person" Class, implements deposit and
+withdraw methods.
+*/
+
 class Employee extends Person {
     String idNum;
     String email;
@@ -63,24 +75,10 @@ class Employee extends Person {
     public String getEmployeeType() {
         return employeeType;
     }
-
-    /*public void setPhoneNumber(String phoneNumber) {
-        this.phoneNumber = phoneNumber;
-    }
-
-    public String getPhoneNumber() {
-        return phoneNumber;
-    }
-
-    public void setCashAppWallet(int cashAppWallet) {
-        this.cashAppWallet = cashAppWallet;
-    }
-
-    public int getCashAppWallet() {
-        return cashAppWallet;
-    }
     
-    public void setName(String firstName, String lastName) {
+
+   
+    /*public void setName(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
     }
