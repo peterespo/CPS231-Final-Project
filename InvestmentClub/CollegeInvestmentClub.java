@@ -1,3 +1,14 @@
+/*
+Peter Esposito
+CPS231 Spring
+Final Project
+
+Description:
+
+Examples of use of various methods from the classes
+including withdraw and deposit
+*/
+
 import java.util.ArrayList;
 import java.lang.Math;
 
