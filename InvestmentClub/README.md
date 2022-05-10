@@ -1,3 +1,4 @@
+```
 Original data:
 --------------
  FIRST NAME: Peter
@@ -151,3 +152,4 @@ Edited data:
  BALANCE: $1145.0
  EMPLOYEE TYPE: Faculty
 --------------
+```
