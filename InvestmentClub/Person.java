@@ -1,3 +1,14 @@
+/*
+Peter Esposito
+CPS231 Spring
+Final Project
+
+Description:
+
+Base "Person" Class with
+getters and setters
+*/
+
 class Person {
     private String firstName;
     private String lastName;
