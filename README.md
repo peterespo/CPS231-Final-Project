@@ -1,6 +1,3 @@
-# Peter Esposito
-# CPS231 Spring
-# Final Project Submission
 # Git Clone Repository Instructions:
 
 Must have Git installed (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
